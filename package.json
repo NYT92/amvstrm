@@ -31,7 +31,8 @@
     "prettier": "^2.8.8",
     "vite-plugin-pwa": "^0.16.4",
     "vue-eslint-parser": "^9.2.1",
-    "vuetify-nuxt-module": "^0.5.13"
+    "vuetify-nuxt-module": "^0.5.13",
+    "sharp": "^0.33.0"
   },
   "dependencies": {
     "artplayer": "^5.0.4",
@@ -42,7 +43,6 @@
     "hls.js": "^1.4.0",
     "lodash.debounce": "^4.0.8",
     "posthog-js": "^1.58.0",
-    "sharp": "^0.33.0",
     "vue-disqus": "^5.1.0",
     "vuetify": "^3.4.4"
   }
